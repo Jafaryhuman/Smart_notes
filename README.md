@@ -1,2 +1,2 @@
 # Currency translater
-An easy app where you can manage your notes
+every day this bot sends currency
